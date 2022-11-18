@@ -1,4 +1,6 @@
 # Laboratorio-2
+ * INTEGRANTES : Boza Paul, Guaman Ariel, Negrete Jhanira
+
 * OBJETIVO GENERAL:
 
 Explicar, demostrar y comprobar el análisis por método de Mallas. 
@@ -14,6 +16,22 @@ Determinar el error que usamos al medir todas las resistencias.
 El método de corrientes de mallas es parecido al método de voltajes de nodos, solo que en este caso en lugar de usar los voltajes se usan las corrientes. Para la aplicación de este método se tienen que encontrar las ecuaciones que nos permitirán encontrar las corrientes que buscamos, el número de ecuaciones lo podemos definir con:  ecuaciones donde bes el número de ramas esenciales mientras que n es el número de nodos esenciales, para definir estas ecuaciones tomamos en consideración que para cada malla se define una ecuación, las ecuaciones se basan en la ley de voltaje de Kirchhoff y de esta manera evitar definir de una manera necesaria las variables y escribir sistemáticamente las ecuaciones simultaneas para las corrientes de malla desconocidas.
 Hay que tomar en cuenta que para la aplicación del método de nodos y para la definición de las ecuaciones hay que definir una dirección, en este caso la dirección se define conforme giran las manecillas del reloj para cada malla del circuito.
 Para la resolución de problemas que se requiere del método de corrientes de malla podemos aplicar una de sus propiedades siempre y cuando exista una fuente de corriente entre dos mallas, esta propiedad es conocida como súper malla, aplicando esta propiedad se nos permitirá reducir el número de ecuaciones para la resolución del problema, lo que nos facilitara en gran parte el trabajo, ya que para la resolución de la súper malla solo se necesita definir una sola ecuación.
+
+* PROCEDIMIENTO
+
+![image](https://user-images.githubusercontent.com/116833964/202784172-2d800113-0d91-4685-a3f2-68a75c5a728f.png)
+
+![image](https://user-images.githubusercontent.com/116833964/202784253-3b26c6cc-6b31-40b6-8828-271411ed22f4.png)
+
+-SIMULACION EN TINKERCAD
+![image](https://user-images.githubusercontent.com/116833964/202784046-f06ac237-88d1-42e8-a923-ca10c4140bcb.png)
+
+- PROTO BOARD
+![image](https://user-images.githubusercontent.com/116833964/202783924-2b3b897b-3245-4d75-aebb-7c0b66911efd.png)
+
+![22e89dba1da5fdf55888df3128b5c9e9-0](https://user-images.githubusercontent.com/116833964/202783635-9dd54d21-249c-4ce3-bf6c-5ba3d4056624.jpg)
+![22e89dba1da5fdf55888df3128b5c9e9-1](https://user-images.githubusercontent.com/116833964/202783686-0b56b367-7f69-4109-9f54-59c0142d652c.jpg)
+
 
 * CONCLUSIONES:
 
