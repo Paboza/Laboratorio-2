@@ -21,13 +21,16 @@ Para la resolución de problemas que se requiere del método de corrientes de ma
 
 ![image](https://user-images.githubusercontent.com/116833964/202784172-2d800113-0d91-4685-a3f2-68a75c5a728f.png)
 
-![image](https://user-images.githubusercontent.com/116833964/202784253-3b26c6cc-6b31-40b6-8828-271411ed22f4.png)
+1. Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
+valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
 
 -SIMULACION EN TINKERCAD
 ![image](https://user-images.githubusercontent.com/116833964/202784046-f06ac237-88d1-42e8-a923-ca10c4140bcb.png)
 
 - PROTO BOARD
 ![image](https://user-images.githubusercontent.com/116833964/202783924-2b3b897b-3245-4d75-aebb-7c0b66911efd.png)
+
+2. Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
 
 ![22e89dba1da5fdf55888df3128b5c9e9-0](https://user-images.githubusercontent.com/116833964/202783635-9dd54d21-249c-4ce3-bf6c-5ba3d4056624.jpg)
 ![22e89dba1da5fdf55888df3128b5c9e9-1](https://user-images.githubusercontent.com/116833964/202783686-0b56b367-7f69-4109-9f54-59c0142d652c.jpg)
